@@ -40,3 +40,10 @@ npx skills add DangerousANEN/awesome-ai-agent-skills-ru
 Присоединяйтесь к нашему сообществу разработчиков и исследователей AI:
 - 📲 **Telegram-канал**: [@llm_hubs](https://t.me/llm_hubs)
 - 💬 **Обсуждения и вопросы**: [@mosaicsup](https://t.me/mosaicsup)
+
+
+### 4. ⚡ Автономные агенты 2026 (Новое)
+- [`hermes-self-tester`](#): Автономный цикл build-test-fix в Docker noVNC с визуальной верификацией.
+- [`deep-fact-checker`](#): Фактчекинг параметров моделей через safetensors.total и live HTTP probing.
+
+> 🎁 **Скачать полный пак готовых SKILL.md файлов можно в Telegram:** [@llm_hubs](https://t.me/llm_hubs)
